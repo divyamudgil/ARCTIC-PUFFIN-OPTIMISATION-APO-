@@ -4,7 +4,7 @@
 
 The **Arctic Puffin Optimization (APO)** algorithm is abio-inspired optimization technique designed to solve complex optimization problems. Drawing inspiration from the behavioral dynamics of Arctic puffins during their search for food, this algorithm incorporates adaptive parameter adjustment mechanisms to balance **exploration** and **exploitation** in the search space.
 
-The APO algorithm has been rigorously tested on standard benchmark functions (F1 to F30) and demonstrated superior optimization performance in 85% of the cases compared to baseline implementations. Its dynamic control features, including **Lévy flight**, **adaptive control coefficients**, and **feedback factors**, enable efficient convergence and the ability to escape local optima.
+The APO algorithm has been rigorously tested on standard benchmark functions (F1 to F30) and demonstrated superior optimization performance in 85% of the cases compared to baseline implementations( refer the file 'APO results of benachmark fucntions  -2'. Its dynamic control features, including **Lévy flight**, **adaptive control coefficients**, and **feedback factors**, enable efficient convergence and the ability to escape local optima.
 
 ---
 
